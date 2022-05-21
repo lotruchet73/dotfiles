@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = leo.truchet@edhec.com
+	name = Leo Truchet
